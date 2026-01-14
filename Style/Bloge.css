@@ -1,0 +1,30 @@
+.header{
+  height: 300px;
+  background-color: bisque;  
+} 
+ 
+ 
+ h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.facere{
+    border: 1px solid purple;
+   margin: 20px;
+   display: inline-block;
+}
+
+li{
+    display: inline;
+}
+
